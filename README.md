@@ -1,0 +1,1 @@
+This is the root project for a java api for the newly released Riot Games Api for League of legends. I would like to find people who collaborate on this project. Feel free to contribute. I thought of using GSON for the mapping of the JSON Objects Returned from the servers.
